@@ -1,0 +1,41 @@
+
+fieldset{
+    margin-top: 30px;
+    width: 50%;
+}
+.label{
+    padding-top: 15px;
+    margin-bottom: 7px;
+}
+span{
+    color: red;
+}
+
+.radio,.checkbox{
+   margin-right: 10px;
+}
+
+legend{
+    font-size: 2em;
+    font-weight: 200;
+}
+
+h1{
+    font-size: 3em;
+}
+
+.button{
+    margin-top: 40px;
+}
+
+.buttons{
+   margin:20px 20px 10px 50px;
+   padding:10px 50px;
+   background-color: #024488;
+   color: #fff;
+}
+.buttons:hover{
+    cursor: pointer;
+    background-color: #4275a8;
+}
+
